@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LandonInHD
-- 👀 I’m interested in Android development
-- 🌱 I’m currently learning the basics of Java and Android Studio.
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning design patterns in JavaScript and CSS grid layout.
 - 💞️ I’m looking to collaborate on any open source project.
 - 📫 How to reach me: landoninhd@gmail.com
 
